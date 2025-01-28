@@ -1,5 +1,5 @@
 # Hi, I'm Claudia Castrillón! 👋
-🚀 ** AI Enthusiast | Biomedical Engineer**
+🚀 AI Enthusiast | Biomedical Engineer
 
 ---
 
