@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @claudiacastrillon
-- 👀 I’m interested in biomedical engineering 
-- 🌱 I’m currently learning python and tensor flow
-- 💞️ I’m looking to collaborate on machine learning proyects
-- 📫 How to reach me claudiacastrillonalvarez@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I eat pizza with fork and knife
+# Hi, I'm Claudia Castrillón! 👋
+🚀 ** AI Enthusiast | Biomedical Engineer**
 
-<!---
-claudiacastrillon/claudiacastrillon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌟 About Me
+- Passionate about bioengineering, AI, and innovation in healthcare.
+- Currently pursuing a master's in Artificial Intelligence.
+
+---
+
+## 🛠️ Skills
+- **Programming Languages:** Python, MATLAB, JavaScript
+- **Tools & Technologies:** TensorFlow, Git, Docker, SQL
+
+---
+
+## 💼 Projects
+
+---
+
+## 📫 Contact
+- [LinkedIn]([(https://www.linkedin.com/in/claudia-castrillón-álvarez-166601267/)])
+- Email: claudiacastrillonalvarez@gmail.com
